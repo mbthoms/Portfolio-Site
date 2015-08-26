@@ -1,0 +1,67 @@
+/*Main CSS Document*/
+/*Fonts ===================================================================== */
+html, body {
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+}
+/*Contact Form ===============================================================*/
+fieldset {
+    padding-bottom: 2rem;
+}
+
+/*Footer =====================================================================*/
+footer {
+    text-align: center;
+    border-top: 2px solid #00a2ff;
+    padding: 2rem;
+}
+
+/*Images =====================================================================*/
+.parallax-window  {
+    min-height: 400px;
+    background: transparent;
+    color: white;
+}
+
+.work-logos {
+    width: auto;
+    height: 100%;
+}
+
+/*Spacing ====================================================================*/
+.padding-top-1rem {
+    padding-top: 1rem;
+}
+.padding-top-5rem {
+    padding-top: 5rem;
+}
+
+.located {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.padding-bottom-2rem {
+    padding-bottom: 2rem;
+}
+
+.site-alert {
+    margin-bottom: 0;
+}
+
+/* Marketing Content =========================================================*/
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.marketing h2 {
+  font-weight: normal;
+}
+
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
