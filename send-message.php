@@ -119,6 +119,10 @@
             <!-- End of col -->
         </div>
         <!-- End of Row -->
+        
+        <!-- ==================================================================
+					Footer
+     		 ================================================================== -->
         <footer>
             <section id="social-media-icons" class="padding-bottom-2rem">
                 <a href="https://www.facebook.com/matt.b.thoms" title="Outbound link to Facebook - Matthew Thoms Account." class="btn btn-social-icon btn-facebook">
