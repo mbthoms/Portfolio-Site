@@ -17,6 +17,10 @@ fieldset {
     padding-bottom: 2rem;
 }
 
+.email {
+	padding-bottom: 1rem;
+}
+
 /*Footer =====================================================================*/
 footer {
     text-align: center;
