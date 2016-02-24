@@ -32,12 +32,10 @@
 
 
 <!-- JS -->
-<script type="text/javascript" src="js/jquery.min.js"></script><!-- jQuery -->
-<script type="text/javascript" src="js/bootstrap.min.js"></script><!-- Bootstrap -->
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script><!-- jQuery -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script><!--Bootstrap-->
 <script type="text/javascript" src="js/jquery.parallax.js"></script><!-- Parallax -->
-<script type="text/javascript" src="js/smoothscroll.js"></script><!-- Smooth Scroll -->
 <script type="text/javascript" src="js/masonry.pkgd.min.js"></script><!-- masonry -->
-<script type="text/javascript" src="js/jquery.fitvids.js"></script><!-- fitvids -->
 <script type="text/javascript" src="js/owl.carousel.min.js"></script><!-- Owl-Carousel -->
 <script type="text/javascript" src="js/jquery.counterup.min.js"></script><!-- CounterUp -->
 <script type="text/javascript" src="js/waypoints.min.js"></script><!-- CounterUp -->
