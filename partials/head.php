@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="author" content="Matthew Thoms">
 	<meta name="description" content="Matthew Thoms, Web Designer / Developer Based in Southen Ontario, Canada. Works with HTML, CSS, PHP, JavaScript, ASP.NET / C#.">
-	<meta name="keywords" content="Matthew Thoms, HTML, CSS, PHP, C#, ASP.NET, JavaScript, Web, Design, Designing, Technology, Developer, Developing, Barrie, Southen Ontario, Canada">
+	<meta name="keywords" content=" Web Design, Web Design Services, Services,Matthew Thoms, HTML, CSS, PHP, C#, ASP.NET, JavaScript, Web, Design, Designing, Technology, Developer, Developing, Barrie, Southen Ontario, Canada">
 
 
 	<title><?php echo $title; ?></title>

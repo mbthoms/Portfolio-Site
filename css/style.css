@@ -137,10 +137,10 @@ p a {
 /* 3. BUTTONS */
 
 	.btn-send{
-		background-color: #383838;
+		background-color: rgba(255, 255, 255, 0);
 		border-radius: 0;
-		border: 0;
-		color: #fff;
+		border: 2px solid black;
+		color: black;
 		padding: 8px 14px;
 		-webkit-transition: all 0.2s ease-in-out;
 		-moz-transition: all 0.2s ease-in-out;
@@ -152,16 +152,15 @@ p a {
 	.btn-send:hover{
 		background-color: #000;
 		color: #fff;
+		border: 2px solid black;
 	}
 
 	.btn-readmore{
-		background-color: #383838;
+		background-color: rgba(255, 255, 255, 0);
 		border-radius: 0;
-		border: 0;
-		color: #fff;
+		border: 2px solid black;
+		color: black;
 		padding: 10px 20px;
-		margin-top: 20px;
-		text-transform: uppercase;
 		-webkit-transition: all 0.2s ease-in-out;
 		-moz-transition: all 0.2s ease-in-out;
 		-ms-transition: all 0.2s ease-in-out;
@@ -172,6 +171,7 @@ p a {
 	.btn-readmore:hover{
 		background-color: #000;
 		color: #fff;
+		border: 2px solid black;
 	}
 
 

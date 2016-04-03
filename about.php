@@ -4,8 +4,17 @@ $title = "About - Matthew Thoms, Web Designer / Developer";
 ?>
 
 <div class="container about-container first-container">
-  <h1>About</h1>
-
+  <div class="row">
+    <div class="col-md-12">
+        <h1>
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-user fa-stack-1x fa-inverse"></i>
+          </span>
+          About
+        </h1>
+      </div>
+    </div>
 <div class="row">
     <div class="col-sm-12 col-md-6 col-lg-4 text-center">
         <img src="images/about/matthewthoms.jpg" alt="Photo of Matthew Thoms">

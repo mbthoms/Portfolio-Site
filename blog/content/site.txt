@@ -1,0 +1,33 @@
+Title: Matthew Thoms - Blog
+
+----
+
+Author: Matthew Thoms
+
+----
+
+Description: Matthew's Blog about anything Tech.
+
+----
+
+Keywords: Kirby,CMS,file-based
+
+----
+
+Copyright: © (date: Year) (link: http://matthewthoms.com/ text: Matthew Thoms)
+
+----
+
+Facebook: https://facebook.com/matt.b.thoms
+
+----
+
+Twitter: https://twitter.com/matt_thoms
+
+----
+
+Github: https://github.com/mbthoms
+
+----
+
+Tracker: 

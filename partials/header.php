@@ -1,5 +1,4 @@
 <body>
-
 	<!-- PRELOADER -->
 	<div id="st-preloader">
 		<div id="pre-status">
@@ -28,7 +27,8 @@
 				    	<li><a href="index.php">Home</a></li>
 							<li><a href="about.php">About	</a></li>
 				    	<li><a href="work.php">Work</a></li>
-							<li><a href="https://500px.com/matthewthoms" title="Link to Matthew Thoms Account on 500px.">Photography</a></li>
+							<li><a href="https://500px.com/matthewthoms" title="Link to Matthew Thoms Account on 500px.">Photos</a></li>
+							<li><a href="http://matthewthoms.com/blog">Blog</a></li>
 				    	<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div><!-- /.navbar-collapse -->

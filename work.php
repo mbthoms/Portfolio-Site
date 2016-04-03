@@ -11,7 +11,13 @@ $title = "Work - Matthew Thoms, Web Designer / Developer";?>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-          <h1>Work Showcase</h1>
+          <h1>
+            <span class="fa-stack">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-code fa-stack-1x fa-inverse"></i>
+            </span>
+            Work Showcase
+          </h1>
         </div>
       </div>
 
@@ -21,6 +27,7 @@ $title = "Work - Matthew Thoms, Web Designer / Developer";?>
             <li><a class="active" href="#" data-filter="*">All</a></li>
             <li><a href="#" data-filter=".html-css">HTML/CSS</a></li>
             <li><a href="#" data-filter=".asp-net">ASP.NET/C#</a></li>
+            <li><a href="#" data-filter=".node-js">Node.js</a></li>
             <li><a href="#" data-filter=".php">PHP</a></li>
             <li><a href="#" data-filter=".bootstrap">Bootstrap</a></li>
           </ul><!--/#portfolio-filter-->
@@ -60,10 +67,42 @@ $title = "Work - Matthew Thoms, Web Designer / Developer";?>
               </div>
             </div>
           </div>
+          
+           <div class="col-md-4 col-sm-6 work-grid html-css node-js bootstrap">
+            <div class="portfolio-content">
+              <img class="img-responsive" src="images/works/business-dir-perview.jpg" alt="">
+              <div class="portfolio-overlay">
+                <a href="images/works/business-dir.jpg"><i class="fa fa-camera"></i></a>
+                <h5>Business Directory</h5>
+                <p>Simple Business Directory using Node.js with the Expressjs Framework.</p>
+              </div>
+            </div>
+          </div>
 
         </div>
       </div>
 
+   
+    <div class="row">
+      <div class="col-md-12">
+          <h1>
+            <span class="fa-stack">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-codepen fa-stack-1x fa-inverse"></i>
+            </span>
+            CodePens
+          </h1>
+        </div>
+      </div>
+   
+   <p data-height="268" data-theme-id="0" data-slug-hash="EKPpqv" data-default-tab="result" data-user="mbthoms" class="codepen">See the Pen <a href="http://codepen.io/mbthoms/pen/EKPpqv/">Project 1 - The Big Switch</a> by Matthew Thoms (<a href="http://codepen.io/mbthoms">@mbthoms</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+
+<p data-height="400" data-theme-id="0" data-slug-hash="dMzMPP" data-default-tab="result" data-user="mbthoms" class="codepen">See the Pen <a href="http://codepen.io/mbthoms/pen/dMzMPP/">A Simple Angular To Do List</a> by Matthew Thoms (<a href="http://codepen.io/mbthoms">@mbthoms</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+   
+   
     </div>
   </div>
 </section>

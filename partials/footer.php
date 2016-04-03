@@ -8,10 +8,11 @@
         <a href="https://www.facebook.com/matt.b.thoms" title="Outbound link to Facebook - Matthew Thoms Account."><i class="fa fa-facebook"></i></a>
         <a href="http://twitter.com/matt_thoms" title="Outbound link to Twitter - Matthew Thoms Account."><i class="fa fa-twitter"></i></a>
         <a href="https://instagram.com/mattbthoms/" title="Outbound link to Instagram - Matthew Thoms Account."><i class="fa fa-instagram"></i></a>
-        <a href="" title="Outbound link to Google Plus - Matthew Thoms Account."><i class="fa fa-google-plus"></i></a>
+        <a href="https://plus.google.com/114971658505175410530" title="Outbound link to Google Plus - Matthew Thoms Account."><i class="fa fa-google-plus"></i></a>
         <a href="https://www.pinterest.com/matt_thoms/" title="Outbound link to Pinterest - Matthew Thoms Account."><i class="fa fa-pinterest-p"></i></a>
-        <a href="" title="Outbound link to Github - Matthew Thoms Account."><i class="fa fa-github"></i></a>
-        <a href="" title="Outbound link to LinkedIn - Matthew Thoms Account."><i class="fa fa-linkedin"></i></a>
+        <a href="https://github.com/mbthoms" title="Outbound link to Github - Matthew Thoms Account."><i class="fa fa-github"></i></a>
+	<a href="http://codepen.io/mbthoms" title="Outbound link to CodePen- Matthew Thoms Account."><i class="fa fa-codepen"></i></a>
+        <a href="https://www.linkedin.com/in/mbthoms" title="Outbound link to LinkedIn - Matthew Thoms Account."><i class="fa fa-linkedin"></i></a>
         <a href="https://foursquare.com/matt_thoms" title="Outbound link to foursquare - Matthew Thoms Account."><i class="fa fa-foursquare"></i></a>
       </div>
       <!-- /SOCIAL ICONS -->

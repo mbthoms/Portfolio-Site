@@ -1,0 +1,2 @@
+[04-Mar-2016 21:37:42 UTC] PHP Fatal error:  Call to a member function uri() on a non-object in /home/matth401/public_html/blog/kirby/core/site.php on line 197
+[04-Mar-2016 21:37:58 UTC] PHP Fatal error:  Call to a member function uri() on a non-object in /home/matth401/public_html/blog/kirby/core/site.php on line 197
