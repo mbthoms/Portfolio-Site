@@ -46,20 +46,25 @@ $title = "About - Matthew Thoms, Web Designer / Developer";
                   <ul>
                     <li>Samsung Monitor 27" SyncMaster S27B350</li>
                     <li>Samsung Monitor 27" S270390</li>
+                    <li>Acer Monitor 27"</li>
                     <li>Gateway DX4860 Desktop Computer
                         <ul>
-                            <li>Windows 7 Home Premium</li>
+                            <li>Windows 10 Home</li>
                             <li>3.40GHz Intel i7 2600</li>
                             <li>8GB Memory</li>
+                            <li>128GB SSD Kingston</li>
                             <li>2TB WD HDD</li>
-                            <li>ATI Readon HD 6670 2GB Ram</li>
+                            <li>GeForce GTX 960 2GB Ram</li>
                         </ul>
                     </li>
                     <li>Logitech C920 Webcam</li>
                     <li>Logitech Surround Sound Speakers Z506</li>
+                    <li>Logitech G930 Gaming Headset</li>
                     <li>Razer Kraken Pro (Black)</li>
-                    <li>Razer Naga (2014)</li>
+                    <li>Razer Naga Epic Chroma (2015)</li>
+                    <li>Razer Firefly Mouse Mat</li>
                     <li>Razer Black Widow Chroma Gaming Keyboard (2014)</li>
+                    <li>WD MyBook 3TB Backup Drive</li>
                 </ul>
               </div>
               <div id="tab_mobile" class="tab-pane fade">
@@ -67,8 +72,8 @@ $title = "About - Matthew Thoms, Web Designer / Developer";
                 <ul>
                   <li>Macbook Pro 15" Retina (Late 2013)
                       <ul>
-                          <li>OS X 10.10 Yosemite</li>
-                          <li>2.0 GHz Turbo Boost:3.2 GHz Intel i7</li>
+                          <li>OS X 10.11 El Capitan</li>
+                          <li>2.0 GHz Turbo Boost: 3.2 GHz Intel i7</li>
                           <li>256GB PCIe-based flash storage</li>
                           <li>Intel Iris Pro Graphics</li>
                           <li>802.11ac Wi-Fi</li>
@@ -76,13 +81,11 @@ $title = "About - Matthew Thoms, Web Designer / Developer";
                           <li>8GB Memory</li>
                       </ul>
                   </li>
-                  <li>Apple Magic Mouse</li>
+                  <li>Apple Magic Mouse 2</li>
                   <li>500GB WD My Passport External HDD (Black)</li>
                   <li>Apple Thunderbolt to Gigabit Ethernet Adapter</li>
                   <li>Mini DisplayPort to VGA Abapter</li>
-                  <li>iPhone 4s (White, 16GB)</li>
-                  <li>Samsung Galaxy Note 2 (16GB)</li>
-                  <li>Motorola Moto G (8GB)</li>
+                  <li>iPhone 5s (Space Grey, 16GB)</li>
               </ul>
 
               </div>

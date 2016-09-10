@@ -18,8 +18,8 @@ $title = "Contact - Matthew Thoms, Web Designer / Developer"; ?>
         </div>
       </div>
       <div class="col-sm-4 contact-info">
-        <p class="st-address"><i class="fa fa-map-marker fa-x2"></i> <strong>Barrie, Canada</strong></p>
-        <p class="st-email"><i class="fa fa-envelope-o"></i> <strong><a href="mailto:matthewthomsmedia@gmail.com" title="Email matthewthomsmedia@gmail.com">matthewthomsmedia@gmail.com</a></strong></p>
+        <p class="st-address"><i class="fa fa-map-marker fa-x2"></i> <strong>Acton ON, Canada</strong></p>
+        <p class="st-email"><i class="fa fa-envelope-o"></i> <strong><a href="mailto:matthew@matthewthoms.com" title="Email matthew@matthewthoms.com">matthew@matthewthoms.com</a></strong></p>
         <p class="st-website"><i class="fa fa-globe"></i> <strong><a href="http://matthewthoms.com/" title="Link to http://matthewthoms.com/">www.matthewthoms.com</a></strong></p>
 
       </div>
@@ -49,6 +49,7 @@ $title = "Contact - Matthew Thoms, Web Designer / Developer"; ?>
 </section>
 <!-- /CONTACT -->
 
+<iframe id="contact-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11550.97302139199!2d-80.0433731!3d43.6327024!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b74ed72ea5b13%3A0x5c9e652ed5296bf!2sActon%2C+ON!5e0!3m2!1sen!2sca!4v1464848073170" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 

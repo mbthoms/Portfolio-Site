@@ -1,4 +1,4 @@
-<?php
+﻿<?php
   require_once('partials/head.php');
   require_once('partials/header.php');
   $title = "Home - Matthew Thoms, Web Designer / Developer";
@@ -47,14 +47,13 @@
 <div class="container text-center">
   <h1>Web Design / Developer</h1>
   <h2 class="located">Located in Southern Ontario, Canada</h2>
-  <h3>What I do— day in, and day out.</h3>
   <h3>Welcome to my home on the web. Here I provide everything you will ever need to know about me, what I do and what my passion is...</h3>
 </div>
 <br>
 <br>
 <div class="container text-center">
   <div class="row">
-      <div class="col-sm-12 col-md-4 col-lg-4">
+      <div id="more-info" class="col-sm-12 col-md-4 col-lg-4">
         <span class="fa-stack fa-4x">
           <i class="fa fa-circle fa-stack-2x"></i>
           <i class="fa fa-user fa-stack-1x fa-inverse"></i>
@@ -88,7 +87,6 @@
   <!-- /.row -->
 </div>
 <!-- /.container -->
-
  <?php
  require_once('partials/footer.php');
   ?>
