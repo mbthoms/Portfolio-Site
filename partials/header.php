@@ -1,13 +1,4 @@
 <body>
-	<!-- PRELOADER -->
-	<div id="st-preloader">
-		<div id="pre-status">
-			<div class="preload-placeholder"></div>
-		</div>
-	</div>
-	<!-- /PRELOADER -->
-
-
 	<!-- HEADER -->
 	<header id="header">
 		<nav class="navbar st-navbar navbar-fixed-top">

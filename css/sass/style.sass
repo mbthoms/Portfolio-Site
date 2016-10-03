@@ -21,9 +21,13 @@
 $white-color: #fff
 $light-white-color: #f5f5f5
 $light-grey-color: #909090
+$line-grey-color: rgb(229, 229, 229)
+$white-grey-color: rgb(245, 245, 245)
 $black-color: #000
 $dark-transparent-color: rgba(0, 0, 0, 0.7)
 $transparent-color: rgba(255, 255, 255, 0)
+$copyright-color: #1c1c1c
+
 //b) Fonts
 $primary-font: "Raleway", Helvetica, Arial, sans-serif
 
@@ -156,8 +160,17 @@ label
   width: 100%
   height: 400px
   filter: grayscale(100%)
-  margin-bottom: 0px
   scrollwheel: false
+  margin: 15px 0px -10px 0px
+
+.title-index
+  padding-top: 35px
+.grey-section
+  border-bottom: 2px solid $line-grey-color
+  border-top: 2px solid $line-grey-color
+
+  padding: 50px 10px
+  background-color: $white-grey-color
 
 // 4. Buttons
 
@@ -192,6 +205,24 @@ label
     background-color: $black-color
     color: $white-color
     border: 2px solid $black-color
+
+
+.btn-hero
+  background-color: $transparent-color
+  border-radius: 0
+  border: 2px solid $white-color
+  color: $white-color
+  padding: 10px 20px
+  -webkit-transition: all 0.2s ease-in-out
+  -moz-transition: all 0.2s ease-in-out
+  -ms-transition: all 0.2s ease-in-out
+  -o-transition: all 0.2s ease-in-out
+  transition: all 0.2s ease-in-out
+  &:hover
+    background-color: $white-color
+    color: $black-color
+    border: 2px solid $white-color
+
 
 // 5. Header
 
@@ -388,6 +419,10 @@ label
   .item img
     width: 100%
 
+.profile-img
+  border-radius: 100%
+  margin-bottom: 50px
+
 // 9. Contact
 
 #contact
@@ -418,17 +453,23 @@ label
 
 
 // 10. Footer
+.footer-list
+  list-style-type: none
+  padding-left: 0px
 
+.copyright
+  margin-top: 15px
 #footer
   background-color: #262626
-  margin-top: 40px
-  padding-top: 40px
-  padding-bottom: 40px
+  padding: 30px 0px
+  margin: 0px
   color: rgba(255, 255, 255, 0.4)
+
   a
     color: rgba(255, 255, 255, 0.4)
     &:hover
       color: $white-color
+
 
 .footer-social-icons
   text-align: right

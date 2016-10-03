@@ -13,6 +13,7 @@
              <div class="col-sm-7">
                <h1>Web Design </h1>
                <h2>is my creative world.</h2>
+               <a class="btn btn-hero" href="#more-info" role="button">View details...</a>
                </div>
            </div>
          </div>
@@ -23,6 +24,7 @@
              <div class="col-sm-7">
                <h1>Web Development </h1>
                <h2>is my passion.</h2>
+               <a class="btn btn-hero" href="#more-info" role="button">View details...</a>
              </div>
            </div>
          </div>
@@ -33,6 +35,7 @@
              <div class="col-sm-7">
                <h1>The internet </h1>
                <h2>is a beautiful place.</h2>
+               <a class="btn btn-hero" href="#more-info" role="button">View details...</a>
              </div>
            </div>
          </div>
@@ -43,14 +46,18 @@
    </div> <!--/#home-carousel-->
    </section>
  <!-- /SLIDER -->
-
+<div class="title-index">
 <div class="container text-center">
   <h1>Web Design / Developer</h1>
   <h2 class="located">Located in Southern Ontario, Canada</h2>
   <h3>Welcome to my home on the web. Here I provide everything you will ever need to know about me, what I do and what my passion is...</h3>
 </div>
+</div>
 <br>
 <br>
+<div class="grey-section">
+
+
 <div class="container text-center">
   <div class="row">
       <div id="more-info" class="col-sm-12 col-md-4 col-lg-4">
@@ -87,6 +94,8 @@
   <!-- /.row -->
 </div>
 <!-- /.container -->
+</div>
+<!-- /.info section -->
  <?php
  require_once('partials/footer.php');
   ?>

@@ -1,30 +1,48 @@
-<!-- FOOTER -->
 <footer id="footer">
-  <div class="container">
-    <div class="row">
-      <!-- SOCIAL ICONS -->
-      <div class="col-sm-6 col-sm-push-6 footer-social-icons">
-        <span>Social Me:</span>
-        <a href="https://www.facebook.com/matt.b.thoms" title="Outbound link to Facebook - Matthew Thoms Account."><i class="fa fa-facebook"></i></a>
-        <a href="http://twitter.com/matt_thoms" title="Outbound link to Twitter - Matthew Thoms Account."><i class="fa fa-twitter"></i></a>
-        <a href="https://instagram.com/mattbthoms/" title="Outbound link to Instagram - Matthew Thoms Account."><i class="fa fa-instagram"></i></a>
-        <a href="https://plus.google.com/114971658505175410530" title="Outbound link to Google Plus - Matthew Thoms Account."><i class="fa fa-google-plus"></i></a>
-        <a href="https://www.pinterest.com/matt_thoms/" title="Outbound link to Pinterest - Matthew Thoms Account."><i class="fa fa-pinterest-p"></i></a>
-        <a href="https://github.com/mbthoms" title="Outbound link to Github - Matthew Thoms Account."><i class="fa fa-github"></i></a>
-	<a href="http://codepen.io/mbthoms" title="Outbound link to CodePen- Matthew Thoms Account."><i class="fa fa-codepen"></i></a>
-        <a href="https://www.linkedin.com/in/mbthoms" title="Outbound link to LinkedIn - Matthew Thoms Account."><i class="fa fa-linkedin"></i></a>
-        <a href="https://foursquare.com/matt_thoms" title="Outbound link to foursquare - Matthew Thoms Account."><i class="fa fa-foursquare"></i></a>
-      </div>
-      <!-- /SOCIAL ICONS -->
-      <div class="col-sm-6 col-sm-pull-6 copyright">
-        <p>&copy; <script type="text/javascript">var year = new Date();document.write(year.getFullYear());</script>
-           <a href="">Matthew Thoms Media</a>. All Rights Reserved.</p>
-      </div>
-    </div>
-  </div>
-</footer>
-<!-- /FOOTER -->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-6 col-lg-4">
+              <h4>Pages</h4>
+              <ul class="footer-list">
+                <li><a href="index.php">Home</a></li>
+  							<li><a href="about.php">About</a></li>
+  							<li><a href="work.php">Work</a></li>
+  							<li><a href="https://500px.com/matthewthoms" title="Link to Matthew Thoms Account on 500px.">Photos</a></li>
+  							<li><a href="http://matthewthoms.com/blog/blog-main.php">Blog</a></li>
+  				    	<li><a href="contact.php">Contact</a></li>
+              </ul>
+            </div>
 
+            <div class="col-sm-12 col-md-6 col-lg-4">
+                <!-- Social Media List -->
+                <h4 class="">Connect with Me</h4>
+                <ul class="footer-list">
+                    <li><a href="https://www.facebook.com/matt.b.thoms" title="Outbound link to Facebook - Matthew Thoms Account."><i class="fa fa-facebook"></i> Facebook</a></li>
+                    <li><a href="http://twitter.com/matt_thoms" title="Outbound link to Twitter - Matthew Thoms Account."><i class="fa fa-twitter"></i> Twitter</a></li>
+                    <li><a href="https://instagram.com/mattbthoms/" title="Outbound link to Instagram - Matthew Thoms Account."><i class="fa fa-instagram"></i> Instagram</a></li>
+                    <li><a href="https://github.com/mbthoms" title="Outbound link to Github - Matthew Thoms Account."><i class="fa fa-github"></i> GitHub</a></li>
+                    <li><a href="http://codepen.io/mbthoms" title="Outbound link to CodePen- Matthew Thoms Account."><i class="fa fa-codepen"></i> CodePen</a></li>
+                    <li><a href="https://www.linkedin.com/in/mbthoms" title="Outbound link to LinkedIn - Matthew Thoms Account."><i class="fa fa-linkedin"></i> LinkedIn</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-4">
+              <h4>Who am I?</h4>
+            <p>Matthew Thoms <br>
+            Web Developer / Designer <br>
+            <a href="http://matthewthoms.com" title="Link to Homepage.">http://matthewthoms.com</a><br>
+            <a href="mailto:matthew@matthewthoms.com" title="Email to matthew@matthewthoms.com">matthew@matthewthoms.com</a>
+            </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-12 copyright text-center">
+            <p>&copy; <script type="text/javascript">var year = new Date();document.write(year.getFullYear());</script>
+               <a href="">Matthew Thoms</a>. All Rights Reserved.</p>
+          </div>
+        </div>
+</div>
+</footer>
+<!-- END OF FOOTER -->
 
 <!-- Scroll-up -->
 <div class="scroll-up">
