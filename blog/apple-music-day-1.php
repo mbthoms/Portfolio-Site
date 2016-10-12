@@ -8,8 +8,6 @@
   <li class="active">My Thoughts on Apple Music (Day 1)</li>
 </ol>
 
-
-
   <h1>
     <span class="fa-stack">
       <i class="fa fa-circle fa-stack-2x"></i>
@@ -46,7 +44,7 @@
       This Video is a recap from Apple themselves about their service.
     </p>
     <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/Y1zs0uHHoSw" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/CQY3KUR3VzM" frameborder="0" allowfullscreen></iframe>
     </div>
     <br>
     <h3>Onto my Thoughts</h3>

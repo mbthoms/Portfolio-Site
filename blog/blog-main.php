@@ -9,6 +9,7 @@
       Blog Posts</h1>
       <hr>
       <h2>2016</h2>
+      <hr>
   <ul class="list-group">
     <li class="list-group-item">
       <a href="atom-editor.php"><h3><i class="fa fa-terminal"></i> Atom Editor</h3></a> <div><i class="fa fa-calendar"></i> February 25, 2016</div>
@@ -18,6 +19,7 @@
     </li>
   </ul>
   <h2>2015</h2>
+  <hr>
   <ul class="list-group">
     <li class="list-group-item">
       <a href="iphone-4s.php"><h3><i class="fa fa-terminal"></i> iPhone 4s in 2015, Still holding up?</h3></a> <div><i class="fa fa-calendar"></i> August 11, 2015</div>
@@ -35,8 +37,5 @@
 
 </div>
 
-
-
 </div>
-
 <?php require_once("blog-partials/footer.php"); ?>

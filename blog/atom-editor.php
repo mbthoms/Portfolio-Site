@@ -22,7 +22,7 @@
     <hr>
   <div class="row">
     <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-      <img src="../images/blog/atom-editor/atom-screenshot-code.png" alt="This is the homepage of the business directory application" class="work-img">
+      <img src="../images/blog/atom-editor/atom-screenshot-code.png" alt="This is the homepage of the business directory application" class="blog-img">
     </div>
   </div>
 
@@ -37,14 +37,14 @@
 </div>
 
 <div class="row container text-center">
-  <img src="../images/blog/atom-editor/atom-screenshot-package-manager.png" alt="" class="work-img" />
+  <img class="blog-img" src="../images/blog/atom-editor/atom-screenshot-package-manager.png" alt="" class="blog-img" />
 </div>
   <div class="col-sm-12 col-md-12 col-lg-12">
     <p>You can search for packages and install them into Atom easily with the built-in package manager. You can also create your own packages for <a href="http://atom.io">Atom</a>.<br>
     I love to have my code editor setup with all the packages that help me code with more functionality and be more efficiently.</p>
     <h3>Autocompletion</h3>
     <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-      <img src="../images/blog/atom-editor/autocompletion-screenshot.png" alt="" class="work-img" />
+      <img src="../images/blog/atom-editor/autocompletion-screenshot.png" alt="" class="blog-img" />
     </div>
     <p>Atom has code hinting to help you write code faster. I find it helpful when you are coding and you may forget what the syntax is for, lets say an if statement. Atom will help you autocomplete the if statement with the right syntax. You also could get new packages that help with autocompletion for maybe things like colours or fonts.</p>
   </div>
@@ -55,7 +55,7 @@
     <h3>Multiple Panes</h3>
 
     <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-      <img src="../images/blog/atom-editor/pane-screenshot.png" alt="" class="work-img" />
+      <img src="../images/blog/atom-editor/pane-screenshot.png" alt="" class="blog-img" />
     </div>
     <p>Atom lets you have multiple panes in one window so you can edit code across files like having HTML and CSS open to figure out what classes you put on your tags to style them in the CSS. It's very useful as I use it daily. I don't think I could live without it.</p>
     <h3>Final Thoughts</h3>

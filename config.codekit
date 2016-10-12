@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19127",
+"creatorBuild": "19137",
 "files": {
 	"\/about.php": {
 		"fileType": 8192,
@@ -1642,7 +1642,7 @@
 		"outputAbbreviatedPath": "\/images\/about\/matthewthoms.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/blog\/atom-editor\/atom-screenshot-code.png": {
 		"fileType": 32768,
@@ -1653,7 +1653,7 @@
 		"outputAbbreviatedPath": "\/images\/blog\/atom-editor\/atom-screenshot-code.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/blog\/atom-editor\/atom-screenshot-package-manager.png": {
 		"fileType": 32768,
@@ -1664,7 +1664,7 @@
 		"outputAbbreviatedPath": "\/images\/blog\/atom-editor\/atom-screenshot-package-manager.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/blog\/atom-editor\/autocompletion-screenshot.png": {
 		"fileType": 32768,
@@ -1675,7 +1675,7 @@
 		"outputAbbreviatedPath": "\/images\/blog\/atom-editor\/autocompletion-screenshot.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/blog\/atom-editor\/pane-screenshot.png": {
 		"fileType": 32768,
@@ -1686,7 +1686,7 @@
 		"outputAbbreviatedPath": "\/images\/blog\/atom-editor\/pane-screenshot.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/blog\/iphone-4s\/iphone-4s.png": {
 		"fileType": 32768,
@@ -1697,7 +1697,7 @@
 		"outputAbbreviatedPath": "\/images\/blog\/iphone-4s\/iphone-4s.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/blog\/macbook-retina\/keyboard.jpg": {
 		"fileType": 16384,
@@ -1708,7 +1708,7 @@
 		"outputAbbreviatedPath": "\/images\/blog\/macbook-retina\/keyboard.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/icon\/apple-touch-icon-114-precomposed.png": {
 		"fileType": 32768,
@@ -1791,7 +1791,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 216728,
+		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/slider\/03.jpg",
 		"outputAbbreviatedPath": "\/images\/slider\/03.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1807,7 +1807,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/business-dir-login.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/business-dir-perview.jpg": {
 		"fileType": 16384,
@@ -1818,7 +1818,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/business-dir-perview.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/business-dir.jpg": {
 		"fileType": 16384,
@@ -1829,7 +1829,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/business-dir.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/business-dir\/business-dir-input-form.jpg": {
 		"fileType": 16384,
@@ -1884,7 +1884,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/css-layout.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/food-exercise-tracker-preview.jpg": {
 		"fileType": 16384,
@@ -1895,7 +1895,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/food-exercise-tracker-preview.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/food-exercise-tracker.jpg": {
 		"fileType": 16384,
@@ -1906,7 +1906,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/food-exercise-tracker.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/game-cal.png": {
 		"fileType": 32768,
@@ -1917,7 +1917,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/game-cal.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/indy-graphics-preview.jpg": {
 		"fileType": 16384,
@@ -1928,7 +1928,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/indy-graphics-preview.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/indy-graphics.jpg": {
 		"fileType": 16384,
@@ -1939,7 +1939,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/indy-graphics.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/personal-site.jpg": {
 		"fileType": 16384,
@@ -1950,7 +1950,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/personal-site.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/portfolio-2.jpg": {
 		"fileType": 16384,
@@ -1961,7 +1961,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/portfolio-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/portfolio-3.jpg": {
 		"fileType": 16384,
@@ -1972,7 +1972,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/portfolio-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/portfolio-4.jpg": {
 		"fileType": 16384,
@@ -1983,7 +1983,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/portfolio-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/portfolio-5.jpg": {
 		"fileType": 16384,
@@ -1994,7 +1994,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/portfolio-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/portfolio-6.jpg": {
 		"fileType": 16384,
@@ -2005,7 +2005,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/portfolio-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/to-do-list-preview.jpg": {
 		"fileType": 16384,
@@ -2016,7 +2016,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/to-do-list-preview.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/to-do-list.jpg": {
 		"fileType": 16384,
@@ -2027,7 +2027,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/to-do-list.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/to-do-list.png": {
 		"fileType": 32768,
@@ -2038,7 +2038,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/to-do-list.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/works\/to-do-list\/to-do-list.jpg": {
 		"fileType": 16384,
@@ -2049,7 +2049,7 @@
 		"outputAbbreviatedPath": "\/images\/works\/to-do-list\/to-do-list.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.php": {
 		"fileType": 8192,
