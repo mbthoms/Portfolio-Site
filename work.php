@@ -63,6 +63,23 @@
 
   <h2>2015</h2>
   <ul class="list-group">
+    <!-- Sign Service Label Products -->
+    <li class="list-group-item">
+      <div class="row">
+        <div class="col-sm-12 col-md-4 col-lg-3">
+          <!-- NOTE: Add the image into the dir for the image to be displayed. -->
+          <a href="http://signservicelabelproducts.com/"><img src="images/works/signservice.png" alt="Image of the Sign Service Label Products Website in the Safari web browser." width="275px"/></a>
+        </div>
+        <div class="col-sm-12 col-md-8 col-lg-9">
+          <a href="http://signservicelabelproducts.com/"><h3><i class="fa fa-terminal"></i> Sign Service Label Products</h3></a>
+          <div>
+            <div><i class="fa fa-calendar"></i> September, 2015</div>
+            <span><i class="fa fa-chevron-right fa-1x"></i></span>
+            <strong>Client Work</strong> - Sign Service has been providing print products to the trade for over 30 years.
+          </div>
+        </div>
+      </div>
+    </li>
     <!-- Food / Exercise Tracker -->
     <li class="list-group-item">
       <div class="row">
@@ -83,8 +100,6 @@
   </ul>
 
 </div>
-
-
 
 </div>
 

@@ -1,6 +1,34 @@
-<?php require_once('partials/head.php');
+<?php
+//If the submit button is clicked.
+if(isset($_POST['submit'])){
+  $url = 'https://www.google.com/recaptcha/api/siteverify';
+  $privatekey = '6LcJ5QoUAAAAAMFfkQzfiOhJ8y5_PHuuZV1bRBkr';
+
+  //Getting the data from the server.
+  $response = file_get_contents($url."?secret=".$privatekey."&response=".$_POST['g-recaptcha-response']."&remoteip=".$_SERVER['REMOTE_ADDR']);
+  $data = json_decode($response);
+
+  //If it's NOT verified.
+  if(isset($data->success) AND $data->success==true){
+    // True - What happens when the user is verified.
+    //returns a pass.
+    header('Location: contact.php?CaptchaPass=True');
+  }
+  //if it's not verified.
+  else{
+    //returns a fail.
+    header('Location: contact.php?CaptchaFail=True');
+  }
+}
+
+
+
+
+ require_once('partials/head.php');
 require_once('partials/header.php');
-$title = "Contact - Matthew Thoms, Web Designer / Developer"; ?>
+$title = "Contact - Matthew Thoms, Web Designer / Developer";
+
+?>
 
 <!-- CONTACT -->
   <div class="container first-container">
@@ -23,8 +51,20 @@ $title = "Contact - Matthew Thoms, Web Designer / Developer"; ?>
 
       </div>
       <div class="col-sm-7 col-sm-offset-1">
-        <form action="send-contact.php" class="contact-form" name="contact-form" method="post">
+        <form action="" class="contact-form" name="contact-form" method="post">
           <div class="row">
+            <?php if(isset($_GET['CaptchaPass'])){ ?>
+            <div class="col-sm-12">
+              Message Sent, Thank-you!
+            </div>
+            <?php } ?>
+            <?php if(isset($_GET['CaptchaFail'])){ ?>
+            <div class="col-sm-12">
+              Captcha Failed. Please Try Again.
+            </div>
+            <?php } ?>
+          </div> <!-- End of Sending Messages. -->
+            <div class="row">
             <div class="col-sm-6">
               <input type="text" name="name" required="required" placeholder="Name*">
             </div>
@@ -36,6 +76,9 @@ $title = "Contact - Matthew Thoms, Web Designer / Developer"; ?>
             </div>
             <div class="col-sm-12">
               <textarea name="message" required="required" cols="30" rows="7" placeholder="Message*"></textarea>
+            </div>
+            <div class="col-sm-12">
+              <div class="g-recaptcha" data-sitekey="6LcJ5QoUAAAAALMmQlUtE7gC22Fb-1AxG_NJ2WAh"></div>
             </div>
             <div class="col-sm-12">
               <input type="submit" name="submit" value="Send Message" class="btn btn-send">
