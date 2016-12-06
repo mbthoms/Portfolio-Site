@@ -30,7 +30,7 @@ $title = "Contact - Matthew Thoms, Web Designer / Developer";
 
 ?>
 
-<!-- CONTACT -->
+  <!-- CONTACT -->
   <div class="container first-container">
     <div class="row">
       <div class="col-md-12">
@@ -63,8 +63,9 @@ $title = "Contact - Matthew Thoms, Web Designer / Developer";
               Captcha Failed. Please Try Again.
             </div>
             <?php } ?>
-          </div> <!-- End of Sending Messages. -->
-            <div class="row">
+          </div>
+          <!-- End of Sending Messages. -->
+          <div class="row">
             <div class="col-sm-6">
               <input type="text" name="name" required="required" placeholder="Name*">
             </div>
@@ -88,12 +89,13 @@ $title = "Contact - Matthew Thoms, Web Designer / Developer";
       </div>
     </div>
   </div>
-<!-- /CONTACT -->
+  <!-- /CONTACT -->
 
-<iframe id="contact-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11550.97302139199!2d-80.0433731!3d43.6327024!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b74ed72ea5b13%3A0x5c9e652ed5296bf!2sActon%2C+ON!5e0!3m2!1sen!2sca!4v1464848073170" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
-
+  <iframe id="contact-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11550.97302139199!2d-80.0433731!3d43.6327024!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b74ed72ea5b13%3A0x5c9e652ed5296bf!2sActon%2C+ON!5e0!3m2!1sen!2sca!4v1464848073170" width="100%"
+    height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
- <?php require_once('partials/footer.php'); ?>
+
+
+
+  <?php require_once('partials/footer.php'); ?>

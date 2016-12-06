@@ -1,7 +1,7 @@
 // All function at the top of the document.
 function addListItem() {
 	var text = $("#new-text").val();
-	$("#todolist").append('<li><input type="checkbox" class="done"><div contenteditable="true" class="editableText">'+text+' </div><button class="delete">Delete Item</button></li>');
+	$("#todolist").append('<li><input type="checkbox" class="done"><div contenteditable="true" class="editableText">' + text + ' </div><button class="delete">Delete Item</button></li>');
 	$("#new-text").val('');
 }
 
@@ -13,7 +13,7 @@ function finishItem() {
 	if ($(this).parent().css('textDecoration') == 'line-through') {
 		$(this).parent().css('textDecoration', 'none');
 		$(this).parent().css('background-color', 'lightgray');
-		
+
 	} else {
 		$(this).parent().css('textDecoration', 'line-through');
 		$(this).parent().css('background-color', 'lightgreen');

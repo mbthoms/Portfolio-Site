@@ -22,7 +22,6 @@ $email_message = "You have received a new Message from matthewthoms.com \n\n ".
 	"Message: \n\n $message";
 
 //$headers = "From: contact_form@matthewthoms.com";
-
 mail($email_to,$subject_line,$email_message);
 echo "<body>
 <div class='first-container container text-center'>
@@ -30,8 +29,6 @@ echo "<body>
      <p>Thanks for the message, I will get back to you as soon as I can. Maybe check out what I'm doing on social media these days. <i class=\"fa fa-smile-o\" aria-hidden=\"true\"></i></p>
      
      <a href='http://matthewthoms.com' title='Goes back to the homepage of Matthewthoms.com'>Back to the Homepage.</a></div>
-    
   </body>";
-
 require_once('partials/footer.php');
 ?>

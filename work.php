@@ -8,28 +8,28 @@
     </span>
     Work Showcase
   </h1>
-      <hr>
-<div class="row">
-  <div class="col-sm-12 col-md-6 col-lg-6 text-center">
-    <a href="http://github.com/mbthoms">
-      <span><i class="fa fa-github fa-5x"></i></span>
-      <h4>GitHub</h4>
-    </a>
+  <hr>
+  <div class="row">
+    <div class="col-sm-12 col-md-6 col-lg-6 text-center">
+      <a href="http://github.com/mbthoms">
+        <span><i class="fa fa-github fa-5x"></i></span>
+        <h4>GitHub</h4>
+      </a>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-6 text-center">
+      <a href="http://codepen.io/mbthoms/">
+        <span><i class="fa fa-codepen fa-5x"></i></span>
+        <h4>CodePen</h4>
+      </a>
+    </div>
   </div>
-  <div class="col-sm-12 col-md-6 col-lg-6 text-center">
-    <a href="http://codepen.io/mbthoms/">
-      <span><i class="fa fa-codepen fa-5x"></i></span>
-      <h4>CodePen</h4>
-    </a>
-  </div>
-</div>
-      <h2>2016</h2>
+  <h2>2016</h2>
   <ul class="list-group">
     <!-- Business Directory -->
     <li class="list-group-item">
       <div class="row">
         <div class="col-sm-12 col-md-4 col-lg-3">
-          <a href="work/business-directory.php"><img src="images/works/business-dir.jpg" alt="Image of the business directory in the Safari web browser." width="275px"/></a>
+          <a href="work/business-directory.php"><img src="images/works/business-dir.jpg" alt="Image of the business directory in the Safari web browser." width="275px" /></a>
         </div>
         <div class="col-sm-12 col-md-8 col-lg-9">
           <a href="work/business-directory.php"><h3><i class="fa fa-terminal"></i> Business Directory</h3></a>
@@ -46,7 +46,7 @@
     <li class="list-group-item">
       <div class="row">
         <div class="col-sm-12 col-md-4 col-lg-3">
-          <a href="http://indygraphics.ca/" target="_blank"><img src="images/works/indy-graphics.jpg" alt="Image of indygraphics.ca in the Safari web browser." width="275px"/></a>
+          <a href="http://indygraphics.ca/" target="_blank"><img src="images/works/indy-graphics.jpg" alt="Image of indygraphics.ca in the Safari web browser." width="275px" /></a>
         </div>
         <div class="col-sm-12 col-md-8 col-lg-9">
           <a href="http://indygraphics.ca/" target="_blank"><h3><i class="fa fa-terminal"></i> Indy Graphics</h3></a>
@@ -68,7 +68,7 @@
       <div class="row">
         <div class="col-sm-12 col-md-4 col-lg-3">
           <!-- NOTE: Add the image into the dir for the image to be displayed. -->
-          <a href="http://signservicelabelproducts.com/"><img src="images/works/signservice.png" alt="Image of the Sign Service Label Products Website in the Safari web browser." width="275px"/></a>
+          <a href="http://signservicelabelproducts.com/"><img src="images/works/signservice.png" alt="Image of the Sign Service Label Products Website in the Safari web browser." width="275px" /></a>
         </div>
         <div class="col-sm-12 col-md-8 col-lg-9">
           <a href="http://signservicelabelproducts.com/"><h3><i class="fa fa-terminal"></i> Sign Service Label Products</h3></a>
@@ -84,7 +84,7 @@
     <li class="list-group-item">
       <div class="row">
         <div class="col-sm-12 col-md-4 col-lg-3">
-          <a href="https://github.com/mbthoms/Server-Side-Scripting-Assignment-2" target="_blank"><img src="images/works/food-exercise-tracker.jpg" alt="Image of the Food / exercise tracker in the internet explorer browser." width="275px"/></a>
+          <a href="https://github.com/mbthoms/Server-Side-Scripting-Assignment-2" target="_blank"><img src="images/works/food-exercise-tracker.jpg" alt="Image of the Food / exercise tracker in the internet explorer browser." width="275px" /></a>
         </div>
         <div class="col-sm-12 col-md-8 col-lg-9">
           <a href="https://github.com/mbthoms/Server-Side-Scripting-Assignment-2" target="_blank"><h3><i class="fa fa-terminal"></i> Food / Exercise Tracker</h3></a>
@@ -98,9 +98,6 @@
     </li>
     <!-- End of Food / Exercise Tracker -->
   </ul>
-
 </div>
-
 </div>
-
 <?php require_once("partials/footer.php"); ?>

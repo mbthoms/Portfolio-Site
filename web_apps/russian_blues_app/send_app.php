@@ -7,6 +7,7 @@
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css" media="screen" title="no title" charset="utf-8">
 </head>
+
 <body>
   <main class="container well well-background">
     <h1 class="header-title">Kitten Application</h1>
@@ -201,4 +202,5 @@
 
   </main>
 </body>
+
 </html>

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +9,9 @@
 	<meta name="keywords" content="Matthew Thoms, HTML, CSS, PHP, C#, ASP.NET, JavaScript, Web, Design, Designing, Technology, Developer, Developing, Barrie, Southen Ontario, Canada">
 
 
-	<title><?php echo $title; ?></title>
+	<title>
+		<?php echo $title; ?>
+	</title>
 
 	<!-- Main CSS file -->
 	<link rel="stylesheet" href="css/bootstrap.min.css" />
